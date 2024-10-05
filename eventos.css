@@ -1,0 +1,59 @@
+body {
+    background-color: yellow;
+    margin: 0px;
+    padding-top: 78px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1 {
+    text-align: center;
+    width: 262px;
+    color: white;
+    background-color: black;
+    margin-left: 110px;
+    margin-top: -50px;
+    border-radius: 10px;
+}
+img#logosdc {
+    width: 102px;
+}
+main {
+    background-image: linear-gradient(to top, #FFBA03, #FFCC03);
+    min-height: 300px;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+.bloco1 {
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 68px;
+    width: 80px;
+    height: 74px;
+}
+.mes {
+    color: #D32B3C;
+    font-weight: bolder;
+    text-align: center;
+}
+.dia {
+    font-size: large;
+    font-weight: 900;
+    margin: -20px;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+.bloco2 {
+    background-color: white;
+    border-radius: 6px;
+    padding-left: 10px;
+    margin-top: -88px;
+    margin-left: 93px;
+    height: 74px;
+}
+p {
+    font-weight: lighter;
+    font-family: sans-serif;
+}
