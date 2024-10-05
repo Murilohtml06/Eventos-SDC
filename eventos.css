@@ -54,6 +54,6 @@ main {
     height: 74px;
 }
 p {
-    font-weight: lighter;
+    font-weight: bold;
     font-family: sans-serif;
 }
