@@ -32,10 +32,66 @@ main {
     width: 80px;
     height: 74px;
 }
+.bloco11 {
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 68px;
+    width: 80px;
+    height: 74px;
+}
+.bloco12 {
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 68px;
+    width: 80px;
+    height: 74px;
+}
+.bloco13 {
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 68px;
+    width: 80px;
+    height: 74px;
+}
+.bloco14 {
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 68px;
+    width: 80px;
+    height: 74px;
+}
 .mes {
     color: #D32B3C;
     font-weight: bolder;
     text-align: center;
+}
+.mes1 {
+    color: #D32B3C;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -72px;
+    margin-left: -261px;
+}
+.mes2 {
+    color: #D32B3C;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -72px;
+    margin-left: -261px;
+}
+.mes3 {
+    color: #D32B3C;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -72px;
+    margin-left: -261px;
+}
+.mes4 {
+    color: #D32B3C;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -72px;
+    margin-left: -261px;
 }
 .dia {
     font-size: large;
@@ -45,11 +101,79 @@ main {
     color: white;
     text-align: center;
 }
+.dia1 {
+    font-size: large;
+    font-weight: 900;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    margin-left: -256px;
+    margin-top: -24px;
+}
+.dia2 {
+    font-size: large;
+    font-weight: 900;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    margin-left: -256px;
+    margin-top: -24px;
+}
+.dia3 {
+    font-size: large;
+    font-weight: 900;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    margin-left: -256px;
+    margin-top: -24px;
+}
+.dia4 {
+    font-size: large;
+    font-weight: 900;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    margin-left: -256px;
+    margin-top: -24px;
+}
 .bloco2 {
     background-color: white;
     border-radius: 6px;
     padding-left: 10px;
     margin-top: -88px;
+    margin-left: 93px;
+    height: 74px;
+}
+.bloco21 {
+    background-color: white;
+    border-radius: 6px;
+    padding-left: 10px;
+    margin-top: -127px;
+    margin-left: 93px;
+    height: 74px;
+}
+.bloco22 {
+    background-color: white;
+    border-radius: 6px;
+    padding-left: 10px;
+    margin-top: -127px;
+    margin-left: 93px;
+    height: 74px;
+}
+.bloco23 {
+    background-color: white;
+    border-radius: 6px;
+    padding-left: 10px;
+    margin-top: -127px;
+    margin-left: 93px;
+    height: 74px;
+}
+.bloco24 {
+    background-color: white;
+    border-radius: 6px;
+    padding-left: 10px;
+    margin-top: -127px;
     margin-left: 93px;
     height: 74px;
 }
