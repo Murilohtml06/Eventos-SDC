@@ -22,7 +22,7 @@ body {
     border-right: 5px solid;
     white-space: nowrap;
     overflow: hidden;
-    animation: typing 1.5s steps(19) infinite,
+    animation: typing 3.5s steps(19) infinite,
         cursor .4s step-end;
 }
 @keyframes cursor {
