@@ -1,7 +1,6 @@
 body {
     background-color: #39517D;
     margin: 0px;
-    padding-top: 78px;
     padding-left: 10px;
     padding-right: 10px;
     display: grid;
@@ -106,35 +105,35 @@ main {
     font-weight: bolder;
     text-align: center;
     margin-top: -72px;
-    margin-left: -280px;
+    margin-left: -286px;
 }
 .mes2 {
     color: #D32B3C;
     font-weight: bolder;
     text-align: center;
     margin-top: -72px;
-    margin-left: -280px;
+    margin-left: -286px;
 }
 .mes3 {
     color: #D32B3C;
     font-weight: bolder;
     text-align: center;
     margin-top: -72px;
-    margin-left: -280px;
+    margin-left: -286px;
 }
 .mes4 {
     color: #D32B3C;
     font-weight: bolder;
     text-align: center;
     margin-top: -72px;
-    margin-left: -280px;
+    margin-left: -286px;
 }
 .mes5 {
     color: #D32B3C;
     font-weight: bolder;
     text-align: center;
     margin-top: -72px;
-    margin-left: -280px;
+    margin-left: -286px;
 }
 .dia {
     font-size: large;
@@ -159,7 +158,7 @@ main {
     font-size: 48px;
     color: white;
     text-align: center;
-    margin-left: -280px;
+    margin-left: -286px;
     margin-top: -24px;
 }
 .dia3 {
@@ -177,7 +176,7 @@ main {
     font-size: 48px;
     color: white;
     text-align: center;
-    margin-left: -280px;
+    margin-left: -286px;
     margin-top: -24px;
 }
 .dia5 {
@@ -186,7 +185,7 @@ main {
     font-size: 48px;
     color: white;
     text-align: center;
-    margin-left: -280px;
+    margin-left: -286px;
     margin-top: -24px;
 }
 .bloco2 {
